@@ -1,0 +1,168 @@
+image_dir: images/sunjay/
+papers:
+  - title: "Spectre Declassified: Reading from the Right Place at the Wrong Time"
+    venue: "(In submission)"
+    authors:
+      - Basavesh Ammanaghatta Shivakumar
+      - Jack Barnes
+      - Gilles Barthe
+      - Sunjay Cauligi
+      - <br/>Chitchanok Chuengsatiansup
+      - Daniel Genkin
+      - Sioli O'Connell
+      - Peter Schwabe
+      - Rui Qi Sim
+      - Yuval Yarom
+    links:
+      - ePrint: https://eprint.iacr.org/2022/426.pdf
+  - title: "SoK: Practical Foundations for Spectre Defenses"
+    authors:
+      - Sunjay Cauligi
+      - Craig Disselkoen
+      - Daniel Moghimi
+      - Gilles Barthe
+      - Deian Stefan
+    longvenue: "43rd IEEE Symposium on Security and Privacy"
+    venue: "Oakland '22"
+    venue_link: https://www.ieee-security.org/TC/SP2022/program-papers.html
+    links:
+      - bibtex: https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2022:sok.bib
+      - arXiv:  https://arxiv.org/abs/2105.05801
+  - title: "Swivel: Hardening WebAssembly against Spectre"
+    longvenue: "30th USENIX Security Symposium"
+    venue: "USENIX '21"
+    venue_link: https://www.usenix.org/conference/usenixsecurity21/fall-accepted-papers
+    authors:
+      - Shravan Narayan
+      - Craig Disselkoen
+      - Daniel Moghimi
+      - Sunjay Cauligi
+      - Evan Johnson
+      - Zhao Gang
+      - <br/>Anjo Vahldiek-Oberwagner
+      - Ravi Sahita
+      - Hovav Shacham
+      - Dean Tullsen
+      - Deian Stefan
+    links:
+      - paper:  https://cseweb.ucsd.edu/~dstefan/pubs/narayan:2021:swivel.pdf
+      - bibtex: https://cseweb.ucsd.edu/~dstefan/pubs/narayan:2021:swivel.bib
+      - arXiv:  https://arxiv.org/abs/2102.12730
+  - title: "High-Assurance Cryptography in the Spectre Era"
+    longvenue: "42nd IEEE Symposium on Security and Privacy"
+    venue: "Oakland '21"
+    venue_link: https://www.ieee-security.org/TC/SP2021/program-papers.html
+    authors:
+      - Gilles Barthe
+      - Sunjay Cauligi
+      - Benjamin Gr&eacute;goire
+      - Adrien Koutsos
+      - Kevin Liao
+      - <br/>Tiago Oliveira
+      - Swarn Priya
+      - Tamara Rezk
+      - Peter Schwabe
+    links:
+      - ePrint: https://eprint.iacr.org/2020/1104.pdf
+      - bibtex: bibs/barthe:2021:high.bib
+  - title: "Automatically Eliminating Speculative Leaks from Cryptographic Code with Blade"
+    longvenue: "48th ACM SIGPLAN Symposium on Principles of Programming Languages"
+    venue: "POPL '21"
+    venue_link: https://popl21.sigplan.org/track/POPL-2021-research-papers#event-overview
+    authors:
+      - Marco Vassena
+      - Craig Disselkoen
+      - Klaus v. Gleissenthall
+      - Sunjay Cauligi
+      - <br/>Rami Gökhan Kıcı
+      - Ranjit Jhala
+      - Dean Tullsen
+      - Deian Stefan
+    links:
+      - paper:  https://cseweb.ucsd.edu/~dstefan/pubs/vassena:2021:blade.pdf
+      - bibtex: https://cseweb.ucsd.edu/~dstefan/pubs/vassena:2021:blade.bib
+      - arXiv:  https://arxiv.org/abs/2005.00294
+  - title: "Constant-Time Foundations for the New Spectre Era"
+    longvenue: "41st ACM SIGPLAN Conference on Programming Language Design and Implementation"
+    venue: "PLDI '20"
+    venue_link: https://pldi20.sigplan.org/track/pldi-2020-papers#event-overview
+    authors:
+      - Sunjay Cauligi
+      - Craig Disselkoen
+      - Klaus v. Gleissenthall
+      - Dean Tullsen
+      - Deian Stefan
+      - Tamara Rezk
+      - Gilles Barthe
+    links:
+      - paper:  https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2020:ct-foundations.pdf
+      - bibtex: https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2020:ct-foundations.bib
+      - arXiv:  https://arxiv.org/abs/1910.01755
+      - presentation_newtab: https://www.youtube.com/watch?v=iLjbMNEynY8
+      - "(video abstract)_newtab": https://www.youtube.com/watch?v=wdESrFEAo8Y
+      - github_newtab: https://github.com/PLSysSec/pitchfork-angr
+  - title: "FaCT: A DSL for Timing-Sensitive Computation"
+    longvenue: "40th ACM SIGPLAN Conference on Programming Language Design and Implementation"
+    venue: "PLDI '19"
+    venue_link: https://pldi19.sigplan.org/track/pldi-2019-papers#event-overview
+    authors:
+      - Sunjay Cauligi
+      - Gary Soeller
+      - Brian Johannesmeyer
+      - Fraser Brown
+      - Riad S. Wahby
+      - John Renner
+      - <br/>Benjamin Gr&eacute;goire
+      - Gilles Barthe
+      - Ranjit Jhala
+      - Deian Stefan
+    links:
+      - paper:  https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2019:fact.pdf
+      - bibtex: https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2019:fact.bib
+      - presentation_newtab: https://www.youtube.com/watch?v=DRPdQk_Uqeo
+      - "(video abstract)_newtab": https://www.youtube.com/watch?v=dSPZ0hm-XVU
+      - slides: slides/FaCT_PLDI19.pdf
+      - github_newtab: https://github.com/PLSysSec/FaCT
+  - title: "CT-Wasm: Type-Driven Secure Cryptography for the Web Ecosystem"
+    longvenue: "46th ACM SIGPLAN Symposium on Principles of Programming Languages"
+    venue: "POPL '19"
+    venue_link: https://popl19.sigplan.org/track/POPL-2019-Research-Papers?#event-overview
+    authors:
+      - Conrad Watt
+      - John Renner
+      - Natalie Popescu
+      - Sunjay Cauligi
+      - Deian Stefan
+    links:
+      - paper:  https://cseweb.ucsd.edu/~dstefan/pubs/watt:2019:ct-wasm.pdf
+      - bibtex: https://cseweb.ucsd.edu/~dstefan/pubs/watt:2019:ct-wasm.bib
+  - title: Constant-Time WebAssembly
+    longvenue: "2nd Workshop on Principles of Secure Compilation, at POPL '18"
+    venue: "PriSC '18"
+    venue_link: https://popl18.sigplan.org/track/prisc-2018#program
+    authors:
+      - John Renner
+      - Sunjay Cauligi
+      - Deian Stefan
+    links:
+      - paper:  https://cseweb.ucsd.edu/~dstefan/pubs/renner:2018:ct-wasm.pdf
+      - bibtex: https://cseweb.ucsd.edu/~dstefan/pubs/renner:2018:ct-wasm.bib
+  - title: "FaCT: A Flexible, Constant-Time Programming Language"
+    title_image: images/fact_tree.png
+    longvenue: "IEEE Secure Development Conference"
+    venue: "IEEE SecDev '17"
+    venue_link: https://secdev.ieee.org/2017/agenda/
+    authors:
+      - Sunjay Cauligi
+      - Gary Soeller
+      - Fraser Brown
+      - Brian Johannesmeyer
+      - Yunlu Huang
+      - Ranjit Jhala
+      - Deian Stefan
+    links:
+      - paper:  https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2017:fact.pdf
+      - bibtex: https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2017:fact.bib
+      - slides: slides/FaCT_Strange_Loop18.pdf
+      - (original): slides/FaCT_SecDev17_without_animations.pdf
+      - github_newtab: https://github.com/PLSysSec/FaCT

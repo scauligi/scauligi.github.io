@@ -1,0 +1,54 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+header {
+  position: unset;
+}
+
+section.about-me {
+  float: right;
+}
+
+section.content {
+  float: inline-start;
+  width: unset;
+}
+
+footer {
+  float: unset;
+  position: unset;
+}
+
+strong {
+  color: #444;
+}
+
+a:hover, a:focus {
+  font-weight: unset;
+  text-decoration: underline;
+}
+
+.downloads a:hover, .downloads a:focus {
+  font-weight: unset;
+  text-decoration: underline;
+}
+
+.title-image {
+  color: #393939 !important;
+  text-decoration: none !important;
+}
+
+.no-fullvenue {
+  color: #999999 !important;
+  font-style: italic;
+  text-decoration: none !important;
+}
+
+a.hover-over {
+  color: #727272 !important;
+  font-style: italic;
+  text-decoration: none !important;
+  border-bottom: 1px dotted #999;
+}
