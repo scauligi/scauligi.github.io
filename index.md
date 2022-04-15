@@ -7,7 +7,7 @@
 Basavesh Ammanaghatta Shivakumar, Jack Barnes, Gilles Barthe, Sunjay Cauligi, <br/>Chitchanok Chuengsatiansup, Daniel Genkin, Sioli O'Connell, Peter Schwabe, Rui Qi Sim, Yuval Yarom\
 <span class="no-fullvenue">(In submission)</span>
 
-**SoK: Practical Foundations for Spectre Defenses** &nbsp; [ [bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2022:sok.bib){:target="blank"} \| [arXiv](https://arxiv.org/abs/2105.05801){:target="blank"} ]\
+**SoK: Practical Foundations for Software Spectre Defenses** &nbsp; [ [bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2022:sok.bib){:target="blank"} \| [arXiv](https://arxiv.org/abs/2105.05801){:target="blank"} ]\
 Sunjay Cauligi, Craig Disselkoen, Daniel Moghimi, Gilles Barthe, Deian Stefan\
 [Oakland \'22](https://www.ieee-security.org/TC/SP2022/program-papers.html){:.hover-over title="43rd IEEE Symposium on Security and Privacy"}
 

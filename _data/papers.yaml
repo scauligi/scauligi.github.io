@@ -15,7 +15,7 @@ papers:
       - Yuval Yarom
     links:
       - ePrint: https://eprint.iacr.org/2022/426.pdf
-  - title: "SoK: Practical Foundations for Spectre Defenses"
+  - title: "SoK: Practical Foundations for Software Spectre Defenses"
     authors:
       - Sunjay Cauligi
       - Craig Disselkoen
