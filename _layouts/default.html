@@ -15,8 +15,13 @@
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img id="logo" src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+        <script type="text/javascript">
+          let img = document.getElementById("logo");
+          let choice = Math.floor(Math.random() * 2) + 1;
+          img.src = `/images/sunjay/sunjay${choice}.jpg`;
+        </script>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
