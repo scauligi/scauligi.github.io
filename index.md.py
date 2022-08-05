@@ -17,10 +17,19 @@ def main():
     with open("index.md", "w") as fp:
         print(MD, file=fp)
         for paper in data["papers"]:
+            if subtitle := paper.get("subtitle", ""):
+                subsub = None
+                if ' :: ' in subtitle:
+                    subtitle, subsub = subtitle.split(' :: ', 1)
+                subtitle = f'<span class="subtitle">{subtitle}</span>'
+                if subsub:
+                    subtitle += f''' <span style="vertical-align: text-top;">&middot;</span>
+                                     <span class="subsubtitle">{subsub}</span>'''
+                subtitle += "\\\n"
             title = f'**{paper["title"]}**'
             if "title_image" in paper:
                 title = f'[{title}]({paper["title_image"]}){{:.title-image}}'
-            fp.write(title)
+            fp.write(subtitle + title)
             if paper.get("links"):
                 links = ""
                 for link in paper["links"]:
@@ -44,6 +53,8 @@ def main():
                 venue = f'<span class="no-fullvenue">{venue}</span>'
             else:
                 venue = f'[{venue}]({venuelink}){{:.hover-over title="{longvenue}"}}'
+            if venuetag := paper.get("venue_tag"):
+                venue += f' <span class="no-fullvenue">({venuetag})</span>'
             fp.write(venue)
             fp.write("\n\n")
 
