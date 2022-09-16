@@ -31,8 +31,11 @@ papers:
     venue: "Oakland '22"
     venue_link: https://www.ieee-security.org/TC/SP2022/program-papers.html
     links:
+      - paper: https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2022:sok.pdf
       - bibtex: https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2022:sok.bib
       - arXiv:  https://arxiv.org/abs/2105.05801
+      - presentation_newtab: https://www.youtube.com/watch?v=0ff1laPnbhE
+      - "(video abstract)_newtab": https://www.youtube.com/watch?v=5N0Ofhlw5ZM
   - title: "A Turning Point for Verified Spectre Sandboxing"
     subtitle: "Swivel formalization :: (short paper)"
     longvenue: "SRC TECHCON 2021"

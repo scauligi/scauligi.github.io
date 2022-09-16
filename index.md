@@ -11,7 +11,7 @@ Basavesh Ammanaghatta Shivakumar, Jack Barnes, Gilles Barthe, Sunjay Cauligi, <b
 
 <span class="subtitle">Spectre semantics</span> <span style="vertical-align: text-top;">&middot;</span>
                                      <span class="subsubtitle">there are so many papers even just in this subarea</span>\
-**SoK: Practical Foundations for Software Spectre Defenses** &nbsp; [ [bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2022:sok.bib){:target="blank"} \| [arXiv](https://arxiv.org/abs/2105.05801){:target="blank"} ]\
+**SoK: Practical Foundations for Software Spectre Defenses** &nbsp; [ [paper](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2022:sok.pdf){:target="blank"} \| [bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2022:sok.bib){:target="blank"} \| [arXiv](https://arxiv.org/abs/2105.05801){:target="blank"} \| [presentation](https://www.youtube.com/watch?v=0ff1laPnbhE){:target="blank"} &middot; [(video abstract)](https://www.youtube.com/watch?v=5N0Ofhlw5ZM){:target="blank"} ]\
 Sunjay Cauligi, Craig Disselkoen, Daniel Moghimi, Gilles Barthe, Deian Stefan\
 [Oakland \'22](https://www.ieee-security.org/TC/SP2022/program-papers.html){:.hover-over title="43rd IEEE Symposium on Security and Privacy"}
 
