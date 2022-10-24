@@ -134,6 +134,7 @@ papers:
     longvenue: "40th ACM SIGPLAN Conference on Programming Language Design and Implementation"
     venue: "PLDI '19"
     venue_link: https://pldi19.sigplan.org/track/pldi-2019-papers#event-overview
+    venue_tag: "Made it to the [front page of Hacker News on 2022-10-23!](https://news.ycombinator.com/front?day=2022-10-23#33308037)"
     authors:
       - Sunjay Cauligi
       - Gary Soeller

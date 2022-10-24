@@ -5,67 +5,67 @@
 
 <span class="subtitle">Spectre Declassified + SelSLH</span> <span style="vertical-align: text-top;">&middot;</span>
                                      <span class="subsubtitle">Attack abusing speculative declassification + a much more efficient form of SLH</span>\
-**Spectre Declassified: Reading from the Right Place at the Wrong Time** &nbsp; [ [ePrint](https://eprint.iacr.org/2022/426.pdf){:target="blank"} ]\
+**Spectre Declassified: Reading from the Right Place at the Wrong Time** &nbsp; [&nbsp;[ePrint](https://eprint.iacr.org/2022/426.pdf){:target="blank"}&nbsp;]\
 Basavesh Ammanaghatta Shivakumar, Jack Barnes, Gilles Barthe, Sunjay Cauligi, <br/>Chitchanok Chuengsatiansup, Daniel Genkin, Sioli O'Connell, Peter Schwabe, Rui Qi Sim, Yuval Yarom\
 [Oakland \'23](https://www.ieee-security.org/TC/SP2023/){:.hover-over title="44th IEEE Symposium on Security and Privacy"} <span class="no-fullvenue">(to appear)</span>
 
 <span class="subtitle">Spectre semantics</span> <span style="vertical-align: text-top;">&middot;</span>
                                      <span class="subsubtitle">there are so many papers even just in this subarea</span>\
-**SoK: Practical Foundations for Software Spectre Defenses** &nbsp; [ [paper](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2022:sok.pdf){:target="blank"} \| [bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2022:sok.bib){:target="blank"} \| [arXiv](https://arxiv.org/abs/2105.05801){:target="blank"} \| [presentation](https://www.youtube.com/watch?v=0ff1laPnbhE){:target="blank"} &middot; [(video abstract)](https://www.youtube.com/watch?v=5N0Ofhlw5ZM){:target="blank"} ]\
+**SoK: Practical Foundations for Software Spectre Defenses** &nbsp; [&nbsp;[paper](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2022:sok.pdf){:target="blank"} \|&nbsp;[bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2022:sok.bib){:target="blank"} \|&nbsp;[arXiv](https://arxiv.org/abs/2105.05801){:target="blank"} \|&nbsp;[presentation](https://www.youtube.com/watch?v=0ff1laPnbhE){:target="blank"} &middot;&nbsp;[(video abstract)](https://www.youtube.com/watch?v=5N0Ofhlw5ZM){:target="blank"}&nbsp;]\
 Sunjay Cauligi, Craig Disselkoen, Daniel Moghimi, Gilles Barthe, Deian Stefan\
 [Oakland \'22](https://www.ieee-security.org/TC/SP2022/program-papers.html){:.hover-over title="43rd IEEE Symposium on Security and Privacy"}
 
 <span class="subtitle">Swivel formalization</span> <span style="vertical-align: text-top;">&middot;</span>
                                      <span class="subsubtitle">(short paper)</span>\
-**A Turning Point for Verified Spectre Sandboxing** &nbsp; [ [arXiv](https://arxiv.org/abs/2208.01548){:target="blank"} ]\
+**A Turning Point for Verified Spectre Sandboxing** &nbsp; [&nbsp;[arXiv](https://arxiv.org/abs/2208.01548){:target="blank"}&nbsp;]\
 Sunjay Cauligi, Marco Guarnieri, Daniel Moghimi, Deian Stefan, Marco Vassena\
 [TECHCON \'21](#){:.hover-over title="SRC TECHCON 2021"} <span class="no-fullvenue">(Top 10 Presenter)</span>
 
 <span class="subtitle">Swivel</span> <span style="vertical-align: text-top;">&middot;</span>
                                      <span class="subsubtitle">Spectre protections for in-process sandbox systems</span>\
-**Swivel: Hardening WebAssembly against Spectre** &nbsp; [ [paper](https://cseweb.ucsd.edu/~dstefan/pubs/narayan:2021:swivel.pdf){:target="blank"} \| [bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/narayan:2021:swivel.bib){:target="blank"} \| [arXiv](https://arxiv.org/abs/2102.12730){:target="blank"} ]\
+**Swivel: Hardening WebAssembly against Spectre** &nbsp; [&nbsp;[paper](https://cseweb.ucsd.edu/~dstefan/pubs/narayan:2021:swivel.pdf){:target="blank"} \|&nbsp;[bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/narayan:2021:swivel.bib){:target="blank"} \|&nbsp;[arXiv](https://arxiv.org/abs/2102.12730){:target="blank"}&nbsp;]\
 Shravan Narayan, Craig Disselkoen, Daniel Moghimi, Sunjay Cauligi, Evan Johnson, Zhao Gang, <br/>Anjo Vahldiek-Oberwagner, Ravi Sahita, Hovav Shacham, Dean Tullsen, Deian Stefan\
 [USENIX \'21](https://www.usenix.org/conference/usenixsecurity21/fall-accepted-papers){:.hover-over title="30th USENIX Security Symposium"}
 
 <span class="subtitle">Spectre/Jasmin</span> <span style="vertical-align: text-top;">&middot;</span>
                                      <span class="subsubtitle">Bringing speculation awareness to a formally verified assembly language</span>\
-**High-Assurance Cryptography in the Spectre Era** &nbsp; [ [ePrint](https://eprint.iacr.org/2020/1104.pdf){:target="blank"} \| [bibtex](bibs/barthe:2021:high.bib){:target="blank"} ]\
+**High-Assurance Cryptography in the Spectre Era** &nbsp; [&nbsp;[ePrint](https://eprint.iacr.org/2020/1104.pdf){:target="blank"} \|&nbsp;[bibtex](bibs/barthe:2021:high.bib){:target="blank"}&nbsp;]\
 Gilles Barthe, Sunjay Cauligi, Benjamin Gr&eacute;goire, Adrien Koutsos, Kevin Liao, <br/>Tiago Oliveira, Swarn Priya, Tamara Rezk, Peter Schwabe\
 [Oakland \'21](https://www.ieee-security.org/TC/SP2021/program-papers.html){:.hover-over title="42nd IEEE Symposium on Security and Privacy"}
 
 <span class="subtitle">Blade</span> <span style="vertical-align: text-top;">&middot;</span>
                                      <span class="subsubtitle">Algorithm + static analysis tool to efficiently insert Spectre mitigations</span>\
-**Automatically Eliminating Speculative Leaks from Cryptographic Code with Blade** &nbsp; [ [paper](https://cseweb.ucsd.edu/~dstefan/pubs/vassena:2021:blade.pdf){:target="blank"} \| [bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/vassena:2021:blade.bib){:target="blank"} \| [arXiv](https://arxiv.org/abs/2005.00294){:target="blank"} ]\
+**Automatically Eliminating Speculative Leaks from Cryptographic Code with Blade** &nbsp; [&nbsp;[paper](https://cseweb.ucsd.edu/~dstefan/pubs/vassena:2021:blade.pdf){:target="blank"} \|&nbsp;[bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/vassena:2021:blade.bib){:target="blank"} \|&nbsp;[arXiv](https://arxiv.org/abs/2005.00294){:target="blank"}&nbsp;]\
 Marco Vassena, Craig Disselkoen, Klaus v. Gleissenthall, Sunjay Cauligi, <br/>Rami Gökhan Kıcı, Ranjit Jhala, Dean Tullsen, Deian Stefan\
 [POPL \'21](https://popl21.sigplan.org/track/POPL-2021-research-papers#event-overview){:.hover-over title="48th ACM SIGPLAN Symposium on Principles of Programming Languages"} <span class="no-fullvenue">(Distinguished Paper --- congrats Marco!)</span>
 
 <span class="subtitle">Pitchfork</span> <span style="vertical-align: text-top;">&middot;</span>
                                      <span class="subsubtitle">Formal framework + symbolic analysis tool for Spectre</span>\
-**Constant-Time Foundations for the New Spectre Era** &nbsp; [ [paper](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2020:ct-foundations.pdf){:target="blank"} \| [bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2020:ct-foundations.bib){:target="blank"} \| [arXiv](https://arxiv.org/abs/1910.01755){:target="blank"} \| [presentation](https://www.youtube.com/watch?v=iLjbMNEynY8){:target="blank"} &middot; [(video abstract)](https://www.youtube.com/watch?v=wdESrFEAo8Y){:target="blank"} \| [github](https://github.com/PLSysSec/pitchfork-angr){:target="blank"} ]\
+**Constant-Time Foundations for the New Spectre Era** &nbsp; [&nbsp;[paper](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2020:ct-foundations.pdf){:target="blank"} \|&nbsp;[bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2020:ct-foundations.bib){:target="blank"} \|&nbsp;[arXiv](https://arxiv.org/abs/1910.01755){:target="blank"} \|&nbsp;[presentation](https://www.youtube.com/watch?v=iLjbMNEynY8){:target="blank"} &middot;&nbsp;[(video abstract)](https://www.youtube.com/watch?v=wdESrFEAo8Y){:target="blank"} \|&nbsp;[github](https://github.com/PLSysSec/pitchfork-angr){:target="blank"}&nbsp;]\
 Sunjay Cauligi, Craig Disselkoen, Klaus v. Gleissenthall, Dean Tullsen, Deian Stefan, Tamara Rezk, Gilles Barthe\
 [PLDI \'20](https://pldi20.sigplan.org/track/pldi-2020-papers#event-overview){:.hover-over title="41st ACM SIGPLAN Conference on Programming Language Design and Implementation"} <span class="no-fullvenue">(Selected for Best Video!)</span>
 
 <span class="subtitle">FaCT</span> <span style="vertical-align: text-top;">&middot;</span>
                                      <span class="subsubtitle">Language for constant-time crypto</span>\
-**FaCT: A DSL for Timing-Sensitive Computation** &nbsp; [ [paper](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2019:fact.pdf){:target="blank"} \| [bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2019:fact.bib){:target="blank"} \| [presentation](https://www.youtube.com/watch?v=DRPdQk_Uqeo){:target="blank"} &middot; [(video abstract)](https://www.youtube.com/watch?v=dSPZ0hm-XVU){:target="blank"} \| [slides](slides/FaCT_PLDI19.pdf){:target="blank"} \| [github](https://github.com/PLSysSec/FaCT){:target="blank"} ]\
+**FaCT: A DSL for Timing-Sensitive Computation** &nbsp; [&nbsp;[paper](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2019:fact.pdf){:target="blank"} \|&nbsp;[bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2019:fact.bib){:target="blank"} \|&nbsp;[presentation](https://www.youtube.com/watch?v=DRPdQk_Uqeo){:target="blank"} &middot;&nbsp;[(video abstract)](https://www.youtube.com/watch?v=dSPZ0hm-XVU){:target="blank"} \|&nbsp;[slides](slides/FaCT_PLDI19.pdf){:target="blank"} \|&nbsp;[github](https://github.com/PLSysSec/FaCT){:target="blank"}&nbsp;]\
 Sunjay Cauligi, Gary Soeller, Brian Johannesmeyer, Fraser Brown, Riad S. Wahby, John Renner, <br/>Benjamin Gr&eacute;goire, Gilles Barthe, Ranjit Jhala, Deian Stefan\
-[PLDI \'19](https://pldi19.sigplan.org/track/pldi-2019-papers#event-overview){:.hover-over title="40th ACM SIGPLAN Conference on Programming Language Design and Implementation"}
+[PLDI \'19](https://pldi19.sigplan.org/track/pldi-2019-papers#event-overview){:.hover-over title="40th ACM SIGPLAN Conference on Programming Language Design and Implementation"} <span class="no-fullvenue">(Made it to the [front page of Hacker News on 2022-10-23!](https://news.ycombinator.com/front?day=2022-10-23#33308037))</span>
 
 <span class="subtitle">CT-Wasm</span> <span style="vertical-align: text-top;">&middot;</span>
                                      <span class="subsubtitle">Constant-time web assembly</span>\
-**CT-Wasm: Type-Driven Secure Cryptography for the Web Ecosystem** &nbsp; [ [paper](https://cseweb.ucsd.edu/~dstefan/pubs/watt:2019:ct-wasm.pdf){:target="blank"} \| [bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/watt:2019:ct-wasm.bib){:target="blank"} ]\
+**CT-Wasm: Type-Driven Secure Cryptography for the Web Ecosystem** &nbsp; [&nbsp;[paper](https://cseweb.ucsd.edu/~dstefan/pubs/watt:2019:ct-wasm.pdf){:target="blank"} \|&nbsp;[bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/watt:2019:ct-wasm.bib){:target="blank"}&nbsp;]\
 Conrad Watt, John Renner, Natalie Popescu, Sunjay Cauligi, Deian Stefan\
 [POPL \'19](https://popl19.sigplan.org/track/POPL-2019-Research-Papers?#event-overview){:.hover-over title="46th ACM SIGPLAN Symposium on Principles of Programming Languages"}
 
 <span class="subtitle">CT-Wasm</span> <span style="vertical-align: text-top;">&middot;</span>
                                      <span class="subsubtitle">(extended abstract)</span>\
-**Constant-Time WebAssembly** &nbsp; [ [paper](https://cseweb.ucsd.edu/~dstefan/pubs/renner:2018:ct-wasm.pdf){:target="blank"} \| [bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/renner:2018:ct-wasm.bib){:target="blank"} ]\
+**Constant-Time WebAssembly** &nbsp; [&nbsp;[paper](https://cseweb.ucsd.edu/~dstefan/pubs/renner:2018:ct-wasm.pdf){:target="blank"} \|&nbsp;[bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/renner:2018:ct-wasm.bib){:target="blank"}&nbsp;]\
 John Renner, Sunjay Cauligi, Deian Stefan\
 [PriSC \'18](https://popl18.sigplan.org/track/prisc-2018#program){:.hover-over title="2nd Workshop on Principles of Secure Compilation, at POPL '18"}
 
 <span class="subtitle">FaCT</span> <span style="vertical-align: text-top;">&middot;</span>
                                      <span class="subsubtitle">(short paper)</span>\
-[**FaCT: A Flexible, Constant-Time Programming Language**](images/fact_tree.png){:.title-image} &nbsp; [ [paper](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2017:fact.pdf){:target="blank"} \| [bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2017:fact.bib){:target="blank"} \| [slides](slides/FaCT_Strange_Loop18.pdf){:target="blank"} &middot; [(original)](slides/FaCT_SecDev17_without_animations.pdf){:target="blank"} \| [github](https://github.com/PLSysSec/FaCT){:target="blank"} ]\
+[**FaCT: A Flexible, Constant-Time Programming Language**](images/fact_tree.png){:.title-image} &nbsp; [&nbsp;[paper](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2017:fact.pdf){:target="blank"} \|&nbsp;[bibtex](https://cseweb.ucsd.edu/~dstefan/pubs/cauligi:2017:fact.bib){:target="blank"} \|&nbsp;[slides](slides/FaCT_Strange_Loop18.pdf){:target="blank"} &middot;&nbsp;[(original)](slides/FaCT_SecDev17_without_animations.pdf){:target="blank"} \|&nbsp;[github](https://github.com/PLSysSec/FaCT){:target="blank"}&nbsp;]\
 Sunjay Cauligi, Gary Soeller, Fraser Brown, Brian Johannesmeyer, Yunlu Huang, Ranjit Jhala, Deian Stefan\
 [IEEE SecDev \'17](https://secdev.ieee.org/2017/agenda/){:.hover-over title="IEEE Secure Development Conference"}
 
