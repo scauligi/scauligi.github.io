@@ -36,12 +36,12 @@ def main():
                     (key, val) ,= link.items()
                     key = key.replace("_newtab", "")
                     if key.startswith("("):
-                        links += " &middot; "
+                        links += " &middot;&nbsp;"
                     else:
-                        links += " \\| "
+                        links += " \\|&nbsp;"
                     links += f'[{key}]({val}){{:target="blank"}}'
-                links = links[4:]
-                fp.write(f' &nbsp; [ {links} ]')
+                links = links.removeprefix(" \\|&nbsp;")
+                fp.write(f' &nbsp; [&nbsp;{links}&nbsp;]')
             fp.write("\\\n")
             fp.write(", ".join(paper.get("authors", [])))
             fp.write("\\\n")
