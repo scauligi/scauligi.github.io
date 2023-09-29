@@ -4,8 +4,7 @@ papers:
     subtitle: "Spectre Declassified + SelSLH :: Attack abusing speculative declassification + a much more efficient form of SLH"
     longvenue: "44th IEEE Symposium on Security and Privacy"
     venue: "Oakland '23"
-    venue_tag: "to appear"
-    venue_link: https://www.ieee-security.org/TC/SP2023/
+    venue_link: https://www.ieee-security.org/TC/SP2023/program-papers.html
     authors:
       - Basavesh Ammanaghatta Shivakumar
       - Jack Barnes
