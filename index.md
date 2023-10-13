@@ -7,7 +7,7 @@
                                      <span class="subsubtitle">Attack abusing speculative declassification + a much more efficient form of SLH</span>\
 **Spectre Declassified: Reading from the Right Place at the Wrong Time** &nbsp; [&nbsp;[ePrint](https://eprint.iacr.org/2022/426.pdf){:target="blank"}&nbsp;]\
 Basavesh Ammanaghatta Shivakumar, Jack Barnes, Gilles Barthe, Sunjay Cauligi, <br/>Chitchanok Chuengsatiansup, Daniel Genkin, Sioli O'Connell, Peter Schwabe, Rui Qi Sim, Yuval Yarom\
-[Oakland \'23](https://www.ieee-security.org/TC/SP2023/){:.hover-over title="44th IEEE Symposium on Security and Privacy"} <span class="no-fullvenue">(to appear)</span>
+[Oakland \'23](https://www.ieee-security.org/TC/SP2023/program-papers.html){:.hover-over title="44th IEEE Symposium on Security and Privacy"}
 
 <span class="subtitle">Spectre semantics</span> <span style="vertical-align: text-top;">&middot;</span>
                                      <span class="subsubtitle">there are so many papers even just in this subarea</span>\
