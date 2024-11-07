@@ -3,6 +3,12 @@
 ## [Research and Publications](reviews.html){:.title-image}
 
 
+<span class="subtitle">LMTest</span> <span style="vertical-align: text-top;">&middot;</span>
+                                     <span class="subsubtitle">Tool to simulate experimental speculation and leakage models on real code</span>\
+**Testing Side-Channel Security of Cryptographic Implementations against Future Microarchitectures** &nbsp; [&nbsp;[arXiv](https://arxiv.org/abs/2402.00641){:target="blank"}&nbsp;]\
+Gilles Barthe, Marcel B&ouml;hme, Sunjay Cauligi, Chitchanok Chuengsatiansup, Daniel Genkin, <br/>Marco Guarnieri, David Mateos Romero, Peter Schwabe, David Wu, Yuval Yarom\
+[CCS \'24](https://www.sigsac.org/ccs/CCS2024/program/accepted-papers.html){:.hover-over title="31st ACM Conference on Computer and Communications Security"} <span class="no-fullvenue">(Distinguished Paper!!)</span>
+
 <span class="subtitle">Spectre Declassified + SelSLH</span> <span style="vertical-align: text-top;">&middot;</span>
                                      <span class="subsubtitle">Attack abusing speculative declassification + a much more efficient form of SLH</span>\
 **Spectre Declassified: Reading from the Right Place at the Wrong Time** &nbsp; [&nbsp;[ePrint](https://eprint.iacr.org/2022/426.pdf){:target="blank"}&nbsp;]\

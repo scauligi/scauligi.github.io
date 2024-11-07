@@ -1,5 +1,24 @@
 image_dir: images/sunjay/
 papers:
+  - title: "Testing Side-Channel Security of Cryptographic Implementations against Future Microarchitectures"
+    subtitle: "LMTest :: Tool to simulate experimental speculation and leakage models on real code"
+    longvenue: "31st ACM Conference on Computer and Communications Security"
+    venue: "CCS '24"
+    venue_link: https://www.sigsac.org/ccs/CCS2024/program/accepted-papers.html
+    venue_tag: Distinguished Paper!!
+    authors:
+      - Gilles Barthe
+      - Marcel B&ouml;hme
+      - Sunjay Cauligi
+      - Chitchanok Chuengsatiansup
+      - Daniel Genkin
+      - <br/>Marco Guarnieri
+      - David Mateos Romero
+      - Peter Schwabe
+      - David Wu
+      - Yuval Yarom
+    links:
+      - arXiv:  https://arxiv.org/abs/2402.00641
   - title: "Spectre Declassified: Reading from the Right Place at the Wrong Time"
     subtitle: "Spectre Declassified + SelSLH :: Attack abusing speculative declassification + a much more efficient form of SLH"
     longvenue: "44th IEEE Symposium on Security and Privacy"
